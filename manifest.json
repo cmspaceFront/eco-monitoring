@@ -1,6 +1,7 @@
 {
   "name": "eco-monitoring",
   "label": "Eco Monitoring Dashboard",
+  "type": "widget",
   "description": "Full-page ecology monitoring dashboard with ArcGIS map, region/district filters, charts and statistics.",
   "version": "1.0.0",
   "exbVersion": "1.14.0",
